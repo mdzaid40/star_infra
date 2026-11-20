@@ -1,0 +1,19 @@
+
+# Configuration / secrets
+config.php
+.env
+
+# Logs and temporary files
+/storage/*
+!/storage/.gitkeep
+
+# User uploads (if private/dynamic)
+uploads/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
